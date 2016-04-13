@@ -7,7 +7,8 @@ title: 高贵冷艳
 subtitle:
 description:
 author: mayliar
-language:
+avatar: /images/avatar.png
+language: zh-Hans
 timezone:
 
 # URL
@@ -62,8 +63,13 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 ## Themes: https://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
