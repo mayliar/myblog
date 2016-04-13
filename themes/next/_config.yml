@@ -137,6 +137,10 @@ social_icons:
   Weibo: weibo
   Zhihu:
 
+# Friendly Links
+links_title: 友链
+links:
+  Consen: http://consen.github.io
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
