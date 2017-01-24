@@ -141,7 +141,7 @@ social_icons:
 links_title: 友链
 links_icon: heartbeat
 links:
-  Consen: http://consen.github.io
+  Consen: https://consen.github.io
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
