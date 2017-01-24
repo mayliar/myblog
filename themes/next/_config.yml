@@ -3,7 +3,7 @@
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.png
+favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
 keywords: "高贵冷艳"
